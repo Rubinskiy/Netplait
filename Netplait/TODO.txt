@@ -1,0 +1,119 @@
+﻿            >>CHARADDED
+			//button tag with class
+            if (e.Char == '!' && curLine.Contains("btn#"))
+            {
+                int hash = curLine.Substring(curLine.LastIndexOf("#") + 1).Length;
+                string className = TextArea.GetTextRange(caretPos - hash, caretPos);
+                className = className.Remove(className.Length - 1);
+                TextArea.InsertText(caretPos, "<button class=\u0022" + className + "\u0022></button>");
+
+                int backwards = caretPos + className.Length;
+                int frontwards = className.Length;
+                int back = className.Length + 5;
+                TextArea.DeleteRange(caretPos - back, back);
+
+                int caretPosNew = TextArea.SelectionStart;
+                int lineLength = caretPosNew + ("<button class=\u0022" + className + "\u0022>").Length;
+                TextArea.GotoPosition(lineLength);
+            }
+
+            //div tag with id
+            if (e.Char == '!' && curLine.Contains("div#"))
+            {
+                int hash = curLine.Substring(curLine.LastIndexOf("#") + 1).Length;
+                string idName = TextArea.GetTextRange(caretPos - hash, caretPos);
+                idName = idName.Remove(idName.Length - 1);
+                TextArea.InsertText(caretPos, "<div id=\u0022" + idName + "\u0022></div>");
+
+                int backwards = caretPos + idName.Length;
+                int frontwards = idName.Length;
+                int back = idName.Length + 5;
+                TextArea.DeleteRange(caretPos - back, back);
+
+                int caretPosNew = TextArea.SelectionStart;
+                int lineLength = caretPosNew + ("<div id=\u0022" + idName + "\u0022>").Length;
+                TextArea.GotoPosition(lineLength);
+            }
+
+			            //anchor tag with text
+            if (e.Char == '!' && curLine.Contains("a#"))
+            {
+                int hash = curLine.Substring(curLine.LastIndexOf("#") + 1).Length;
+                string link = TextArea.GetTextRange(caretPos - hash, caretPos);
+                link = link.Remove(link.Length - 1);
+                TextArea.InsertText(caretPos, "<a href=\u0022" + link + "\u0022></a>");
+
+                int backwards = caretPos + link.Length;
+                int frontwards = link.Length;
+                int back = link.Length + 3;
+                TextArea.DeleteRange(caretPos - back, back);
+
+                int caretPosNew = TextArea.SelectionStart;
+                int lineLength = caretPosNew + ("<a href=\u0022" + link + "\u0022>").Length;
+                TextArea.GotoPosition(lineLength);
+            }
+
+
+
+			>>KEYPRESS
+			int caretPos = TextArea.SelectionStart;            
+            var charNext = TextArea.GetCharAt(caretPos);
+            var charPrev = TextArea.GetCharAt(caretPos - 2);
+            var IsQuote = charNext == '"';
+
+            var OneSide = TextArea.GetCharAt(caretPos - 2) == '=';
+            //var=""
+            if (e.KeyChar == (char)Keys.Back && OneSide)
+            {
+                TextArea.DeleteRange(caretPos, 1);
+            }   
+
+
+
+
+
+			>>DWELLSTART
+			var startPos = e.Position - 2;
+            var endPos = e.Position + 2;
+            var text = TextArea.GetTextRange(startPos, endPos - startPos).Trim();
+            string line = TextArea.Lines[TextArea.CurrentLine].Text;
+            if (TextArea.Text.Contains("__author__"))
+            {
+                var callTip = string.Format("Author reference");
+                TextArea.CallTipShow(e.Position, callTip);
+            }
+
+			>>DWELLEND
+			TextArea.CallTipCancel();
+
+
+
+
+			>>GETDEFINITION
+			//if (TextArea.Text.Contains("def "))
+            //{
+            //    if (TextArea.Text.EndsWith(")"))
+            //    {
+            //        string line = TextArea.Lines[TextArea.CurrentLine].Text;
+            //        String definitionWbrackets = line.Substring(line.IndexOf(" "));
+            //        string remove = definitionWbrackets.Substring(definitionWbrackets.LastIndexOf("("));
+            //        definition = definitionWbrackets.Replace(remove, string.Empty);
+
+            //        if (!lists.Contains(definition.ToString()))
+            //        {
+            //            DefList.Items.Add(definition.ToString());
+            //        }
+            //        else
+            //        {
+            //            //do nothing.
+            //        }
+            //    }
+            //}
+
+            //foreach (var item in lists)
+            //{
+            //    if (!TextArea.Text.Contains(item.ToString()))
+            //    {
+            //        DefList.Items.Remove(item.ToString());
+            //    }
+            //}
