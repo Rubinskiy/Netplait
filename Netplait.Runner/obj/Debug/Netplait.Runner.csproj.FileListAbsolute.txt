@@ -1,0 +1,6 @@
+C:\Users\Kids\Desktop\Yame - Prog\Netplait\Netplait 1.1\Netplait.Runner\bin\Debug\Netplait.Runner.dll
+C:\Users\Kids\Desktop\Yame - Prog\Netplait\Netplait 1.1\Netplait.Runner\bin\Debug\Netplait.Runner.pdb
+C:\Users\Kids\Desktop\Yame - Prog\Netplait\Netplait 1.1\Netplait.Runner\obj\Debug\Netplait.Runner.csprojAssemblyReference.cache
+C:\Users\Kids\Desktop\Yame - Prog\Netplait\Netplait 1.1\Netplait.Runner\obj\Debug\Netplait.Runner.csproj.CoreCompileInputs.cache
+C:\Users\Kids\Desktop\Yame - Prog\Netplait\Netplait 1.1\Netplait.Runner\obj\Debug\Netplait.Runner.dll
+C:\Users\Kids\Desktop\Yame - Prog\Netplait\Netplait 1.1\Netplait.Runner\obj\Debug\Netplait.Runner.pdb
