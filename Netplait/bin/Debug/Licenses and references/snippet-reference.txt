@@ -1,0 +1,3 @@
+Github repository by: petrovicstefanrs
+License: MIT License
+https://github.com/petrovicstefanrs/30_seconds_of_knowledge
