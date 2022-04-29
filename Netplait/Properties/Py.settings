@@ -1,0 +1,147 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Netplait.Classes.Colors" GeneratedClassName="Py">
+  <Profiles />
+  <Settings>
+    <Setting Name="Caret" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="Defaulttext" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Gray</Value>
+    </Setting>
+    <Setting Name="DefaultBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Numbers" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="NumberBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="NumberItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Strings" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">144, 177, 118</Value>
+    </Setting>
+    <Setting Name="StringBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StringItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Characters" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">144, 177, 118</Value>
+    </Setting>
+    <Setting Name="CharacterBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CharacterItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Keywords" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">180, 144, 196</Value>
+    </Setting>
+    <Setting Name="KeywordsBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="KeywordsItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Classnames" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="ClassnamesBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ClassnamesItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Definitionnames" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">90, 178, 164</Value>
+    </Setting>
+    <Setting Name="DefnameBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefnameItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Word2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">96, 153, 200</Value>
+    </Setting>
+    <Setting Name="Word2Bold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Word2Italic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Decorators" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 0, 128</Value>
+    </Setting>
+    <Setting Name="DecoratorsBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DecoratorsItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LineComments" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="LineCommentsBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LineCommentsItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TripleComments" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="TripleCommentsBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TripleCommentsItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TripleDouble" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="TripleDoubleBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TripleDoubleItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Block" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="BlockBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BlockItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EOL" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="EOLBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EOLItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BackColorDark" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">52, 61, 70</Value>
+    </Setting>
+    <Setting Name="ForeColorDark" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">183, 183, 183</Value>
+    </Setting>
+    <Setting Name="BackColorWhite" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="ForeColorWhite" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,225 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Netplait.Properties" GeneratedClassName="CSS">
+  <Profiles />
+  <Settings>
+    <Setting Name="Caret" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="Defaulttext" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Gray</Value>
+    </Setting>
+    <Setting Name="DefaultBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Attribute" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">162, 201, 150</Value>
+    </Setting>
+    <Setting Name="AttributeBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="AttributeItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Class" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">204, 161, 195</Value>
+    </Setting>
+    <Setting Name="ClassBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ClassItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Comment" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="CommentBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Directive" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">129, 160, 227</Value>
+    </Setting>
+    <Setting Name="DirectiveBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DirectiveItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DoubleString" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">162, 201, 150</Value>
+    </Setting>
+    <Setting Name="DoubleStringBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DoubleStringItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ExtendedIdentifier" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">204, 161, 195</Value>
+    </Setting>
+    <Setting Name="ExtendedIdentifierBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ExtendedIdentifierItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ExtendedPseudoClass" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">204, 161, 195</Value>
+    </Setting>
+    <Setting Name="ExtendedPseudoClassBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ExtendedPseudoClassItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ExtendedPseudoElement" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">204, 161, 195</Value>
+    </Setting>
+    <Setting Name="ExtendedPseudoElementBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ExtendedPseudoElementItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Id" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">204, 161, 195</Value>
+    </Setting>
+    <Setting Name="IdBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="IdItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Identifier" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">121, 175, 219</Value>
+    </Setting>
+    <Setting Name="IdentifierBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="IdentifierItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Identifier2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">249, 176, 99</Value>
+    </Setting>
+    <Setting Name="Identifier2Bold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Identifier2Italic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Identifier3" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">204, 161, 195</Value>
+    </Setting>
+    <Setting Name="Identifier3Bold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Identifier3Italic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Important" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">236, 98, 104</Value>
+    </Setting>
+    <Setting Name="ImportantBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ImportantItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Media" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">240, 120, 195</Value>
+    </Setting>
+    <Setting Name="MediaBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MediaItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Operator" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">129, 160, 227</Value>
+    </Setting>
+    <Setting Name="OperatorBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="OperatorItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PseudoClass" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">129, 160, 227</Value>
+    </Setting>
+    <Setting Name="PseudoClassBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PseudoClassItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PseudoElement" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">204, 161, 195</Value>
+    </Setting>
+    <Setting Name="PseudoElementBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="PseudoElementItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SingleString" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">162, 201, 150</Value>
+    </Setting>
+    <Setting Name="SingleStringBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SingleStringItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Tag" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">204, 161, 195</Value>
+    </Setting>
+    <Setting Name="TagBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TagItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UnknownIdentifier" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">236, 98, 104</Value>
+    </Setting>
+    <Setting Name="UnknownIdentifierBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UnknownIdentifierItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UnknownPseudoClass" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">236, 98, 104</Value>
+    </Setting>
+    <Setting Name="UnknownPseudoClassBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UnknownPseudoClassItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Value" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">249, 176, 99</Value>
+    </Setting>
+    <Setting Name="ValueBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ValueItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Variable" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">237, 62, 62</Value>
+    </Setting>
+    <Setting Name="VariableBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="VariableItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

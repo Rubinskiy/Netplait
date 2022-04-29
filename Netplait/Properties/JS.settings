@@ -1,0 +1,171 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Netplait.Properties" GeneratedClassName="JS">
+  <Profiles />
+  <Settings>
+    <Setting Name="Caret" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="Defaulttext" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Gray</Value>
+    </Setting>
+    <Setting Name="DefaulttextBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaulttextItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Comment" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="CommentBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentLine" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="CommentLineBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentLineItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentDoc" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="CommentDocBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentDocItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Number" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Orange</Value>
+    </Setting>
+    <Setting Name="NumberBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="NumberItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StringEol" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="StringEolBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StringEolItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentLineDoc" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="CommentLineDocBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentLineDocItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentDocKeyword" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="CommentDocKeywordBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentDocKeywordItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentDocKeywordError" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">127, 127, 127</Value>
+    </Setting>
+    <Setting Name="CommentDocKeywordErrorBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CommentDocKeywordErrorItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Word" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">180, 144, 196</Value>
+    </Setting>
+    <Setting Name="WordBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="WordItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Word2" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">96, 153, 200</Value>
+    </Setting>
+    <Setting Name="Word2Bold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Word2Italic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="String" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">144, 177, 118</Value>
+    </Setting>
+    <Setting Name="StringBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StringItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Character" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">144, 177, 118</Value>
+    </Setting>
+    <Setting Name="CharacterBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CharacterItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UUID" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">162, 201, 150</Value>
+    </Setting>
+    <Setting Name="UUIDBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="UUIDItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Operator" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">129, 160, 227</Value>
+    </Setting>
+    <Setting Name="OperatorBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Operatoritalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Identifier" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">121, 175, 219</Value>
+    </Setting>
+    <Setting Name="IdentifierBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="IdentifierItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Verbatim" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">162, 201, 150</Value>
+    </Setting>
+    <Setting Name="VerbatimBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="VerbatimItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Regex" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">162, 201, 150</Value>
+    </Setting>
+    <Setting Name="RegexBold" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="RegexItalic" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
