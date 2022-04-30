@@ -1,5 +1,4 @@
-# Netplait
-[![Generic badge](https://img.shields.io/badge/Status-In development-red.svg)](https://shields.io/)
+# Netplait [![Generic badge](https://img.shields.io/badge/Status-InDevelopment-red.svg)](https://shields.io/)
 
 The Free and Open-source, general-purpose code editor developed for Python and Python web-frameworks.
 
