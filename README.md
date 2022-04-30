@@ -1,5 +1,6 @@
 # Netplait [![Generic badge](https://img.shields.io/badge/Status-InDevelopment-red.svg)](https://shields.io/)
 
+<img src="https://github.com/Rubinskiy/Netplait/blob/main/md-files/icon.png">
 Netplait is the Free and Open-source, alternative to Jetbrains Pycharm. A general-purpose code editor developed for Python, Python web-frameworks and students taking the CS50 program from Harvard University.
 
 <img src="https://github.com/Rubinskiy/Netplait/blob/main/md-files/main.gif">
