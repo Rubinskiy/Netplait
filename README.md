@@ -1,4 +1,4 @@
-# <img src="https://github.com/Rubinskiy/Netplait/blob/main/md-files/icon.png" height="29" width="28"> Netplait
+# <img src="https://github.com/Rubinskiy/Netplait/blob/main/md-files/icon.png" height="38" width="36"> Netplait
 The Free and Open-source, general-purpose code editor developed for Python and Python web-frameworks.
 
 <img src="https://github.com/Rubinskiy/Netplait/blob/main/md-files/main.gif">
