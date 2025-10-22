@@ -1,4 +1,4 @@
-# Netplait [![Generic badge](https://img.shields.io/badge/Status-InDevelopment-red.svg)](https://shields.io/)
+# Netplait [![Generic badge](https://img.shields.io/badge/Status-Inactive-red.svg)](https://shields.io/)
 
 Netplait is the Free and Open-source, alternative to Jetbrains Pycharm. A general-purpose code editor developed for Python, Python web-frameworks and students taking the CS50 program from Harvard University.
 
